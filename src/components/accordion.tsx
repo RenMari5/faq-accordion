@@ -12,7 +12,7 @@ function FAQs() {
   ));
 
   return (
-    <Accordion defaultValue="What is Frontend Mentor, and how will it help me?">
+    <Accordion defaultValue="What is Frontend Mentor, and how will it help me?" transitionDuration={1000}>
       {faq}
     </Accordion>
   );
