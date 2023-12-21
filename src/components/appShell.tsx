@@ -1,0 +1,1 @@
+import { AppShell } from '@mantine/core';
